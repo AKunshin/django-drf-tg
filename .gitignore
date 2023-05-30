@@ -2,8 +2,8 @@
 *.log
 *.pot
 *.pyc
-proj/__pycache__/
 db.sqlite3
+/__pycache__/
 media
 
 # Backup files # 
@@ -135,5 +135,3 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
-proj/__pycache__/urls.cpython-311.pyc
-proj/__pycache__/settings.cpython-311.pyc
